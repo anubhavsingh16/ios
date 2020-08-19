@@ -19,7 +19,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="G0h-hK-ya7" userLabel="AmahiLogo">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="amahi-logo-a36008f915e1ad5efaaf8e468ac614d888ece91aca11db69666e2055f1307964" translatesAutoresizingMaskIntoConstraints="NO" id="9zu-Ir-slx">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="amahiLogoLaunch" translatesAutoresizingMaskIntoConstraints="NO" id="9zu-Ir-slx">
                                         <rect key="frame" x="67" y="327" width="240" height="156"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                     </imageView>
@@ -43,6 +43,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="amahi-logo-a36008f915e1ad5efaaf8e468ac614d888ece91aca11db69666e2055f1307964" width="719" height="246"/>
+        <image name="amahiLogoLaunch" width="2784" height="960"/>
     </resources>
 </document>
