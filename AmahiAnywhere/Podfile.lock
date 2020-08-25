@@ -41,7 +41,7 @@ DEPENDENCIES:
   - SwipeCellKit
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - Alamofire
     - Cache
     - EVReflection
@@ -75,6 +75,6 @@ SPEC CHECKSUMS:
   SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
   SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
 
-PODFILE CHECKSUM: 61f513bfe95231a9fec4a3a23bc3a645bf8f94a6
+PODFILE CHECKSUM: bb4f4f3492ac912b3cdae6d28a122309bb24e12e
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.0.beta.2
