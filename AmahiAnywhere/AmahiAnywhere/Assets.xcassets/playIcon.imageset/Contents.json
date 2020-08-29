@@ -12,30 +12,6 @@
       "filename" : "playButton.png",
       "idiom" : "universal",
       "scale" : "3x"
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "light"
-        }
-      ],
-      "filename" : "image.png",
-      "idiom" : "universal",
-      "scale" : "3x",
-      "unassigned" : true
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "dark"
-        }
-      ],
-      "filename" : "playButton-1.png",
-      "idiom" : "universal",
-      "scale" : "3x",
-      "unassigned" : true
     }
   ],
   "info" : {

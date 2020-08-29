@@ -12,30 +12,6 @@
       "filename" : "shuffle.png",
       "idiom" : "universal",
       "scale" : "3x"
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "light"
-        }
-      ],
-      "filename" : "shuffle-1.png",
-      "idiom" : "universal",
-      "scale" : "3x",
-      "unassigned" : true
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "dark"
-        }
-      ],
-      "filename" : "shuffle-2.png",
-      "idiom" : "universal",
-      "scale" : "3x",
-      "unassigned" : true
     }
   ],
   "info" : {

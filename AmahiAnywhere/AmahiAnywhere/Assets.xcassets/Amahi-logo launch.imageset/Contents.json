@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Amahi-logo launch.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -11,6 +12,7 @@
           "value" : "light"
         }
       ],
+      "filename" : "Amahi-logo launch-1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -21,11 +23,11 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Amahi Logo White Font.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ic_more_vert.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
@@ -36,7 +38,6 @@
           "value" : "light"
         }
       ],
-      "filename" : "image.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
@@ -47,7 +48,6 @@
           "value" : "dark"
         }
       ],
-      "filename" : "ic_more_vert-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
