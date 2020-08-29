@@ -33,6 +33,7 @@ extension FilesViewController: UICollectionViewDataSource, UICollectionViewDeleg
                  .font: UIFont.boldSystemFont(ofSize: 18),
                  .foregroundColor: UIColor.blue
              ]
+
         }
         
         let serverFile = filteredFiles.getFileFromIndexPath(indexPath)
